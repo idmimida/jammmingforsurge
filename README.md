@@ -2,8 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-CodeCademy上的练习和解说页：<https://www.codecademy.com/paths/front-end-engineer-career-path/tracks/fecp-react-part-ii/modules/fecp-challenge-project-jammming/projects/jammming-prj>
-
 ## Available Scripts
 
 In the project directory, you can run:
