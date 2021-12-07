@@ -1,5 +1,5 @@
 const clientID = "a6da220db2624ca192ba9aa8a9ef5485";
-const redirectURI = "thick-beggar.surge.sh";
+const redirectURI = "http://thick-beggar.surge.sh";
 
 let accessToken;
 
